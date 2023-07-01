@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sherif Mustafa</h1>
-<h3 align="center">A passionate Process Application Engineer from Egypt</h3>
+<h3 align="center">Process Application Engineer</h3>
 
 - 🔭 I’m currently working on **coding by VB.net and C# Database**
 
